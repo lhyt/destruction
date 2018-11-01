@@ -4,7 +4,7 @@ npm i proxy-destruction -s
 ```
 
 # Usage
-you can use camelize name to destruct directly, without underscored to camelize:
+you can use camelize name to deconstruction assignment directly, without underscored to camelize:
 > before:
 ```
 const obj = {
@@ -16,7 +16,8 @@ const {
     good_day: goodDay
 } = obj
 ```
-after:
+
+> after:
 ```
 const {
     minValue,
