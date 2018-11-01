@@ -1,13 +1,17 @@
 {
-  "name": "destruction",
-  "version": "1.0.0",
+  "name": "proxy-destruction",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "destruction",
+    "Proxy",
+    ""
+  ],
+  "author": "lhyt",
   "license": "ISC",
   "devDependencies": {
     "jest": "^23.6.0"
