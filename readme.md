@@ -1,3 +1,6 @@
+<a href="https://www.npmjs.com/package/proxy-destruction"><img src="https://img.shields.io/badge/>-npm-red.svg"/></a>
+<a href="https://www.npmjs.com/package/proxy-destruction"><img src="https://img.shields.io/badge/>-issue-green.svg"/></a>
+
 # install
 ```
 npm i proxy-destruction -s
